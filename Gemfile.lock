@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    recurly (2.17.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  recurly (~> 2.17.8)
+
+RUBY VERSION
+   ruby 2.5.3p105
+
+BUNDLED WITH
+   1.17.3
